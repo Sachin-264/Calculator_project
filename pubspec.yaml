@@ -1,0 +1,36 @@
+name: project
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  auto_size_text_field: ^2.2.4
+  cupertino_icons: ^1.0.8
+  function_tree: ^0.9.1
+  provider: ^6.1.2
+  fl_chart: ^0.69.2
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.2
+  flutter_lints: ^4.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon1.png"
+  remove_alpha_ios: true # Removes transparency from iOS icons to comply with App Store guidelines
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Image/
+    - assets/flags/
