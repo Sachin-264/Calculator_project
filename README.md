@@ -27,6 +27,9 @@ The app is designed with a modern, responsive interface that adapts well to diff
 - **fl_chart** for graphical visualizations![1]
 
 
+## Remove .gitattribute on cloning the project
+
+
 ## photo
 ![1](https://github.com/user-attachments/assets/23ceeda8-2b65-4ea6-b73f-42f21fcd274c)
 
@@ -35,6 +38,8 @@ The app is designed with a modern, responsive interface that adapts well to diff
 ![3](https://github.com/user-attachments/assets/45a4273b-3b85-4a3b-a978-b5d28195ec4b)
 
 https://github.com/user-attachments/assets/ca5c3fa5-cddd-4972-8d4f-dcd08e8771d1
+
+
 
 
 
